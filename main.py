@@ -1,4 +1,5 @@
 # Character generator plus battle
+
 import random, os
 from time import sleep
 global A
